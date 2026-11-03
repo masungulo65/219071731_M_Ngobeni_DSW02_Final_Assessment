@@ -1,11 +1,10 @@
-// Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
+import { initializeApp, getApp, getApps } from "firebase/app";
+import { getAuth } from "firebase/auth";
+import { getFirestore } from "firebase/firestore";
+
 const firebaseConfig = {
-  apiKey: "AIzaSyBntJaY0R0FN3galyS1XkDXUOm2jCeHCQ4",
+  apiKey: "PASTE_YOUR_ACTUAL_API_KEY_HERE",
   authDomain: "gautengclinicapp-e935c.firebaseapp.com",
   projectId: "gautengclinicapp-e935c",
   storageBucket: "gautengclinicapp-e935c.firebasestorage.app",
@@ -13,5 +12,10 @@ const firebaseConfig = {
   appId: "1:326232161812:web:5072ca99c638039c077101"
 };
 
-// Initialize Firebase
-const app = initializeApp(firebaseConfig);
+// Prevent Firebase from initializing more than once
+const app = getApps().length === 0
+  ? initializeApp(firebaseConfig)
+  : getApp();
+
+export const auth = getAuth(app);
+export const db = getFirestore(app);
