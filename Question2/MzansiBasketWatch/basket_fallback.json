@@ -1,0 +1,362 @@
+[
+    {
+      "id": "P001",
+      "name": "Maize Meal 5kg",
+      "category": "Staples",
+      "store": "Shoprite",
+      "province": "Gauteng",
+      "area": "Soweto",
+      "price": 79.99
+    },
+    {
+      "id": "P002",
+      "name": "Maize Meal 5kg",
+      "category": "Staples",
+      "store": "Boxer",
+      "province": "Gauteng",
+      "area": "Tembisa",
+      "price": 76.49
+    },
+    {
+      "id": "P003",
+      "name": "Maize Meal 5kg",
+      "category": "Staples",
+      "store": "Pick n Pay",
+      "province": "KwaZulu-Natal",
+      "area": "Durban",
+      "price": 82.99
+    },
+    {
+      "id": "P004",
+      "name": "Brown Bread 700g",
+      "category": "Bakery",
+      "store": "Shoprite",
+      "province": "Gauteng",
+      "area": "Johannesburg CBD",
+      "price": 18.49
+    },
+    {
+      "id": "P005",
+      "name": "Brown Bread 700g",
+      "category": "Bakery",
+      "store": "SPAR",
+      "province": "Limpopo",
+      "area": "Polokwane",
+      "price": 19.99
+    },
+    {
+      "id": "P006",
+      "name": "White Bread 700g",
+      "category": "Bakery",
+      "store": "Checkers",
+      "province": "Western Cape",
+      "area": "Cape Town",
+      "price": 17.99
+    },
+    {
+      "id": "P007",
+      "name": "Full Cream Milk 2L",
+      "category": "Dairy",
+      "store": "Checkers",
+      "province": "Gauteng",
+      "area": "Randburg",
+      "price": 36.99
+    },
+    {
+      "id": "P008",
+      "name": "Full Cream Milk 2L",
+      "category": "Dairy",
+      "store": "Pick n Pay",
+      "province": "Eastern Cape",
+      "area": "Gqeberha",
+      "price": 38.49
+    },
+    {
+      "id": "P009",
+      "name": "Low Fat Milk 2L",
+      "category": "Dairy",
+      "store": "Woolworths",
+      "province": "Gauteng",
+      "area": "Sandton",
+      "price": 42.99
+    },
+    {
+      "id": "P010",
+      "name": "Sunflower Oil 2L",
+      "category": "Cooking Essentials",
+      "store": "Shoprite",
+      "province": "Gauteng",
+      "area": "Roodepoort",
+      "price": 74.99
+    },
+    {
+      "id": "P011",
+      "name": "Sunflower Oil 2L",
+      "category": "Cooking Essentials",
+      "store": "Boxer",
+      "province": "Mpumalanga",
+      "area": "Mbombela",
+      "price": 72.49
+    },
+    {
+      "id": "P012",
+      "name": "Sunflower Oil 2L",
+      "category": "Cooking Essentials",
+      "store": "Pick n Pay",
+      "province": "Free State",
+      "area": "Bloemfontein",
+      "price": 77.99
+    },
+    {
+      "id": "P013",
+      "name": "Potatoes 2kg",
+      "category": "Vegetables",
+      "store": "Checkers",
+      "province": "Gauteng",
+      "area": "Pretoria",
+      "price": 34.99
+    },
+    {
+      "id": "P014",
+      "name": "Potatoes 2kg",
+      "category": "Vegetables",
+      "store": "Shoprite",
+      "province": "North West",
+      "area": "Rustenburg",
+      "price": 32.49
+    },
+    {
+      "id": "P015",
+      "name": "Onions 1kg",
+      "category": "Vegetables",
+      "store": "Boxer",
+      "province": "Limpopo",
+      "area": "Polokwane",
+      "price": 21.99
+    },
+    {
+      "id": "P016",
+      "name": "Tomatoes 1kg",
+      "category": "Vegetables",
+      "store": "SPAR",
+      "province": "KwaZulu-Natal",
+      "area": "Pietermaritzburg",
+      "price": 29.99
+    },
+    {
+      "id": "P017",
+      "name": "Frozen Chicken Portions 2kg",
+      "category": "Protein",
+      "store": "Shoprite",
+      "province": "Gauteng",
+      "area": "Soweto",
+      "price": 119.99
+    },
+    {
+      "id": "P018",
+      "name": "Frozen Chicken Portions 2kg",
+      "category": "Protein",
+      "store": "Checkers",
+      "province": "Western Cape",
+      "area": "Bellville",
+      "price": 124.99
+    },
+    {
+      "id": "P019",
+      "name": "Eggs Large 18 Pack",
+      "category": "Protein",
+      "store": "Pick n Pay",
+      "province": "Gauteng",
+      "area": "Midrand",
+      "price": 64.99
+    },
+    {
+      "id": "P020",
+      "name": "Eggs Large 18 Pack",
+      "category": "Protein",
+      "store": "Boxer",
+      "province": "Eastern Cape",
+      "area": "East London",
+      "price": 61.49
+    },
+    {
+      "id": "P021",
+      "name": "Rice 2kg",
+      "category": "Staples",
+      "store": "SPAR",
+      "province": "Gauteng",
+      "area": "Alberton",
+      "price": 49.99
+    },
+    {
+      "id": "P022",
+      "name": "Rice 2kg",
+      "category": "Staples",
+      "store": "Shoprite",
+      "province": "KwaZulu-Natal",
+      "area": "Umlazi",
+      "price": 46.99
+    },
+    {
+      "id": "P023",
+      "name": "Sugar 2.5kg",
+      "category": "Staples",
+      "store": "Checkers",
+      "province": "Gauteng",
+      "area": "Centurion",
+      "price": 54.99
+    },
+    {
+      "id": "P024",
+      "name": "Sugar 2.5kg",
+      "category": "Staples",
+      "store": "Boxer",
+      "province": "North West",
+      "area": "Mahikeng",
+      "price": 51.99
+    },
+    {
+      "id": "P025",
+      "name": "Baked Beans 410g",
+      "category": "Canned Food",
+      "store": "Shoprite",
+      "province": "Gauteng",
+      "area": "Alexandra",
+      "price": 16.99
+    },
+    {
+      "id": "P026",
+      "name": "Baked Beans 410g",
+      "category": "Canned Food",
+      "store": "Pick n Pay",
+      "province": "Western Cape",
+      "area": "Mitchells Plain",
+      "price": 18.49
+    },
+    {
+      "id": "P027",
+      "name": "Tinned Pilchards 400g",
+      "category": "Canned Food",
+      "store": "Boxer",
+      "province": "KwaZulu-Natal",
+      "area": "KwaMashu",
+      "price": 24.99
+    },
+    {
+      "id": "P028",
+      "name": "Tinned Pilchards 400g",
+      "category": "Canned Food",
+      "store": "SPAR",
+      "province": "Limpopo",
+      "area": "Tzaneen",
+      "price": 27.49
+    },
+    {
+      "id": "P029",
+      "name": "Peanut Butter 400g",
+      "category": "Spreads",
+      "store": "Checkers",
+      "province": "Gauteng",
+      "area": "Boksburg",
+      "price": 39.99
+    },
+    {
+      "id": "P030",
+      "name": "Peanut Butter 400g",
+      "category": "Spreads",
+      "store": "Shoprite",
+      "province": "Free State",
+      "area": "Welkom",
+      "price": 37.49
+    },
+    {
+      "id": "P031",
+      "name": "Tea Bags 100 Pack",
+      "category": "Beverages",
+      "store": "Pick n Pay",
+      "province": "Gauteng",
+      "area": "Pretoria",
+      "price": 44.99
+    },
+    {
+      "id": "P032",
+      "name": "Tea Bags 100 Pack",
+      "category": "Beverages",
+      "store": "Boxer",
+      "province": "Mpumalanga",
+      "area": "Emalahleni",
+      "price": 41.99
+    },
+    {
+      "id": "P033",
+      "name": "Instant Coffee 200g",
+      "category": "Beverages",
+      "store": "Checkers",
+      "province": "Western Cape",
+      "area": "Cape Town",
+      "price": 69.99
+    },
+    {
+      "id": "P034",
+      "name": "Instant Coffee 200g",
+      "category": "Beverages",
+      "store": "SPAR",
+      "province": "Gauteng",
+      "area": "Kempton Park",
+      "price": 72.99
+    },
+    {
+      "id": "P035",
+      "name": "Laundry Powder 2kg",
+      "category": "Household",
+      "store": "Shoprite",
+      "province": "Gauteng",
+      "area": "Johannesburg CBD",
+      "price": 89.99
+    },
+    {
+      "id": "P036",
+      "name": "Laundry Powder 2kg",
+      "category": "Household",
+      "store": "Pick n Pay",
+      "province": "KwaZulu-Natal",
+      "area": "Durban",
+      "price": 94.99
+    },
+    {
+      "id": "P037",
+      "name": "Dishwashing Liquid 750ml",
+      "category": "Household",
+      "store": "Boxer",
+      "province": "Gauteng",
+      "area": "Tembisa",
+      "price": 27.99
+    },
+    {
+      "id": "P038",
+      "name": "Dishwashing Liquid 750ml",
+      "category": "Household",
+      "store": "Checkers",
+      "province": "Eastern Cape",
+      "area": "Gqeberha",
+      "price": 29.99
+    },
+    {
+      "id": "P039",
+      "name": "Apples 1.5kg",
+      "category": "Fruit",
+      "store": "Shoprite",
+      "province": "Gauteng",
+      "area": "Soweto",
+      "price": 39.99
+    },
+    {
+      "id": "P040",
+      "name": "Bananas 1kg",
+      "category": "Fruit",
+      "store": "SPAR",
+      "province": "Limpopo",
+      "area": "Polokwane",
+      "price": 24.99
+    }
+  ]
